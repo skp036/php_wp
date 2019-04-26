@@ -1,0 +1,15 @@
+/*
+Theme Name: SKT Photo World
+Layout: Content-Sidebar
+*/
+
+#primary {
+	width: 70%;
+	float: right;
+}
+#secondary {
+	width: 26%;
+	float: left;
+}
+
+.nivo-caption{right:inherit; left:13%; text-align:left !important;}
